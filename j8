@@ -1,0 +1,47 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Haxker_6666666 Hub | Showcase's", "Ocean")
+
+-- Tabs And Section
+
+local Tab1 = Window:NewTab("Showcase's")
+local Tab1Section = Tab1:NewSection("People That Showcase My Script Hub")
+
+local Tab1Section = Tab1:NewSection("1. Bido Skins | YouTube")
+
+local Tab1Section = Tab1:NewSection("2. Abrahamvideogames | Youtube")
+
+local Tab1Section = Tab1:NewSection("3. GamingchairOP | Youtube")
+
+local Tab1Section = Tab1:NewSection("4. AndroScriptsxD | Youtube")
+
+local Tab1Section = Tab1:NewSection("5. darkModz | Youtube")
+
+local Tab1Section = Tab1:NewSection("6. Goilou | Youtube")
+
+local Tab1Section = Tab1:NewSection("7. daviscriptsOFFICIAL | Youtube")
+
+local Tab1Section = Tab1:NewSection("8. nightsstremm | YouTube")
+
+local Tab1Section = Tab1:NewSection("9. pkxdjosh56 | YouTube")
+
+local Tab1Section = Tab1:NewSection("10. teanc00lkidd | Tiktok")
+
+local Tab1Section = Tab1:NewSection("11. emilcarevskiy76 | Discord")
+
+local Tab1Section = Tab1:NewSection("12. .im_dev | Discord")
+
+local Tab1Section = Tab1:NewSection("13. JACOB_SCRIPTER | Youtube")
+
+local Tab1Section = Tab1:NewSection("14. ???")
+
+local Tab1Section = Tab1:NewSection("15. ???")
+
+local Tab1Section = Tab1:NewSection("16. ???")
+
+local Tab1Section = Tab1:NewSection("17. ???")
+
+local Tab1Section = Tab1:NewSection("18. ???")
+
+local Tab1Section = Tab1:NewSection("19. ???")
+
+local Tab1Section = Tab1:NewSection("20. ???")
